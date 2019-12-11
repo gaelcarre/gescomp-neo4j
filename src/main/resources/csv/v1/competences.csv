@@ -1,0 +1,312 @@
+1;Processus
+2;Technologies
+3;Agilite
+4;Architecture
+5;CDK
+6;Developpement
+7;Modélisation
+8;Outils
+9;SCRUM - Developpeur
+10;SCRUM - Product Owner
+11;Design Pattern
+12;SOA
+13;TOGAF
+14;CDK Build
+15;Programmation Orientée Objet
+16;REST
+17;SOAP
+18;TDD
+19;Test unitaire
+20;Merise
+21;UML
+22;Jira
+23;BPM
+24;Cloud
+25;Database
+26;ETL
+27;IA
+28;Infrastructure
+29;Java
+30;Javascript
+31;Languages
+32;Mobile
+33;Outils
+34;PHP
+35;Python
+36;Serveurs Web
+37;Web
+38;WebMethod
+39;BlueMix
+40;H2
+41;Mysql
+42;Nosql
+43;Oracle
+44;Cassandra
+45;Neo4j
+46;Informatica
+47;Watson
+48;LDAP
+49;OS
+50;Linux
+51;Java 7
+52;Java 8
+53;JavaEE
+54;Outils Java
+55;EJB
+56;Grails
+57;Hibernate
+58;JSP
+59;Servlet
+60;Spring
+61;Spring Batch
+62;Spring Boot
+63;Spring Core
+64;Spring Data
+65;Spring MVC
+66;Spring ORM
+67;Spring Security
+68;CXF
+69;Jaxb
+70;Junit
+71;Log4j
+72;Mapstruct
+73;Maven
+74;Mockito
+75;Nexus
+76;Slf4j
+77;Ajax
+78;Angular2
+79;AngularJs
+80;Gradle
+81;Grunt
+82;JQuery
+83;Nodejs
+84;Npm
+85;Typescript
+86;ATL - Atlas Transformation Language
+87;MOF - Meta Object Facility
+88;Perl
+89;PLSQL
+90;QVT - Query View Transformation
+91;Ruby
+92;Scala
+93;Smalltalk
+94;VBA
+95;Android
+96;IDE
+97;PIC
+98;Putty
+99;Qualimetrie
+100;SCM - Gestion de configuration
+101;SOAP UI
+102;Atom
+103;Eclipse - EMF - Modeling Framework
+104;Eclipse - GMF - Graphical Modeling Framework
+105;OBEO Acceleo
+106;OBEO Designer
+107;OBEO Sirius
+108;OBEO SmartEA
+109;SqlDeveloper
+110;Jenkins
+111;SonarQube
+112;Git
+113;SVN
+114;PHP5
+115;Symfony2.X
+116;Python 2
+117;JBoss
+118;Tomcat
+119;Bootstrap
+120;CSS 3
+121;HTML5
+122;ThymeLeaf
+123;Metiers
+124;Activités
+125;Fonctionnel
+126;Animation d'atelier Métier
+127;Assistance Recette
+128;Avant-Vente
+129;Cadrage de solutions fonctionnelles
+130;Chiffrages
+131;Développement
+132;Exécution de scénarios de qualification
+133;Front Office Technologie
+134;Migration IT Métier
+135;Pilotage
+136;Rédaction de scénarios de qualification
+137;Rédaction de spécifications fonctionnelles
+138;Rédactionde spécifications techniques
+139;Signature
+140;Electronique Métier
+141;Support de Production
+142;Support Technique
+143;Tests Unitaires
+144;Internet of Things Technologie
+145;BlockChain
+146;Assurance Santé Métier
+147;Assurance Vie Métier
+148;Malakoff Médéric - Affiliation
+149;Malakoff Médéric - Appels complémentaires
+150;Malakoff Médéric - Appels complémentaires
+151;Malakoff Médéric - Appels de cotisations
+152;Malakoff Médéric - Appurement des soldes
+153;Malakoff Médéric - Aura
+154;Malakoff Médéric - Base Localisation
+155;Malakoff Médéric - Calcul de cotisation
+156;Malakoff Médéric - CMS
+157;Malakoff Médéric - Comptabilité
+158;Malakoff Médéric - Comptabilité Mensuelle
+159;Malakoff Médéric - Compte
+160;Malakoff Médéric - Contentieux
+161;Malakoff Médéric - Contrat
+162;Malakoff Médéric - Dossier Entreprise et Participant
+163;Malakoff Médéric - Déclaration de salaire
+164;Malakoff Médéric - Dématérialisation
+165;Malakoff Médéric - Editique
+166;Malakoff Médéric - Encaissements
+167;Malakoff Médéric - Entreprise
+168;Contractualisation agile
+169;Exterme Programming
+170;Kanban
+171;Lean IT
+172;Pilotage projet agile
+173;SAFE
+174;SCRUM - Scrum Master
+175;Xpedition Framework
+176;Mega
+177;CDK Acceptance & Security Tests
+178;CDK Design
+179;CDK Monitoring
+180;CDK Ops
+181;CDK Performance Tests
+182;EasyVista
+183;MagicDraw
+184;Mantis
+185;Qualité
+186;CMMI
+187;HP Quality Center
+188;ITILv3
+189;Squash TA
+190;Squash TM
+191;APM
+192;APP Dynamics
+193;Dynatrace
+194;BIRT
+195;Business Object
+196;Cognos
+197;Hyperion Report
+198;Jasper Report
+199;MicroStrategy
+200;Penaho
+201;Power BI
+202;QclikSense
+203;SAS
+204;Tableau Software
+205;BI
+206;Big Data
+207;Hadoop
+208;Spark
+209;Vertica
+210;Prima
+211;AWS
+212;Microsoft Azure
+213;CMS
+214;Alfresco
+215;Caméléon
+216;Drupal
+217;Joomal
+218;Liferay
+219;Spip
+220;Typo3
+221;Wordpress
+222;Container
+223;Docker
+224;Docker-compose
+225;Kubernetes
+226;Access
+227;DB2
+228;MSsql
+229;PostgreSQL
+230;SQL
+231;SQLServer
+232;Sybase
+233;DynamoDb
+234;ElasticStack
+235;MarkLogic
+236;MongoDB
+237;DacFx
+238;Reporting Services
+239;Sql Server Data Tools
+240;SqlServer
+241;SSIS
+242;T-SQL
+243;Datastage
+244;Sunopsis ETL
+245;Talend Data Integration
+246;IBM
+247;EOS/SDSF
+248;Optim
+249;TWS
+250;Active Directory
+251;CITRIX
+252;IAM - Identity Access Management
+253;CAS - Central Authentication Service
+254;IBM Access Management
+255;IBM Cloud Identity
+256;Protocoles
+257;OAuth 2
+258;OpenID
+259;SAML
+260;Axis
+261;Castor
+262;JSF
+263;MyBatis
+264;Struts1
+265;Struts2
+266;Ant
+267;Ehcache
+268;Gatling
+269;JasperReport
+270;Jmeter
+271;Jprofiler
+272;Liquibase
+273;Metrics
+274;Scort
+275;Xerces
+276;Xstream
+277;BackBoneJs
+278;EmberJs
+279;Express
+280;Gulp
+282;Jasmine
+283;Karma
+284;KnockoutJS
+285;Lodash
+286;MomentJS
+287;React
+288;ADA
+289;Bash
+290;Batch Windows
+291;C
+292;C++
+293;COBOL
+294;CoolGen Batch
+295;CoolGen TP
+296;Delphi
+297;Dot.Net
+298;Flex
+299;Fortran
+300;JCL
+301;Pascal
+302;PL1
+303;R
+304;Rexx
+305;Script Shell
+306;Swift3
+307;VB.NET
+308;VB6
+309;xQuery
+310;Marklogic
+311;Microsoft
+312;Moteurs de règles
+313;Progiciel
